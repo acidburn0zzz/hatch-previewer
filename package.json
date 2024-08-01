@@ -14,7 +14,7 @@
   },
   "main": "main.js",
   "dependencies": {
-    "bootstrap": "^4.1.0",
+    "bootstrap": "^5.0.0",
     "chokidar": "^2.0.4",
     "electron": "2.0.8",
     "jquery": "^3.2.1",
